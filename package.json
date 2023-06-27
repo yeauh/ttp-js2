@@ -14,7 +14,7 @@
     "jasmine": "^5.0.2",
     "jasmine-browser-runner": "^2.0.0",
     "jasmine-core": "^5.0.1",
-    "nodemon": "^2.0.22",
+    "nodemon": "^1.14.9",
     "prettier": "^2.8.8",
     "testem": "^3.10.1"
   }
